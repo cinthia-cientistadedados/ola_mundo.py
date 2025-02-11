@@ -1,2 +1,2 @@
 print("Olá, Mundo!")
-print ("mundo da cinthia")
+print("mundo da cinthia")
